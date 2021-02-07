@@ -78,3 +78,4 @@ C:\NU\Csye7220\Lecture2\Lab-2\obj\Debug\net5.0\ref\lab2.dll
 C:\NU\Csye7220\Lecture2\Lab-2\obj\Debug\net5.0\lab2.pdb
 C:\NU\Csye7220\Lecture2\Lab-2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
 C:\NU\Csye7220\Lecture2\Lab-2\obj\Debug\net5.0\lab2.csproj.CopyComplete
+C:\NU\Csye7220\Lecture2\Lab-2\obj\Debug\net5.0\Razor\Pages\Song2.cshtml.g.cs
