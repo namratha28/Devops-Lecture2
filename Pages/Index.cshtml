@@ -1,0 +1,21 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Welcome to music world";
+}
+<h1>@ViewData["Title"]</h1>
+
+ <ul class="navbar-nav flex-grow-1">
+    <li class="nav-item">
+    <img src="~/Images/play.png" width="20" height="20" />
+        <a  asp-area="" asp-page="/Song1">Click here to listen to first Song</a>
+    </li>
+    <li class="nav-item">
+    <img src="~/Images/play.png" width="20" height="20" />
+        <a asp-area="" asp-page="/Song2">Click here to listen to second Song</a>
+    </li>
+    <li class="nav-item">
+    <img src="~/Images/play.png" width="20" height="20" />
+        <a asp-area="" asp-page="/Song3">Click here to listen to third Song</a>
+    </li>
+</ul>
